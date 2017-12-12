@@ -1,0 +1,16 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Following up Building Website Using NodeJs and ExpressJs on Linkedin",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Nodejs",
+    "ExpressJs",
+    "JS"
+  ],
+  "author": "Ahmed Abdelraheem",
+  "license": "ISC"
+}
