@@ -15,5 +15,8 @@
     "JS"
   ],
   "author": "Ahmed Abdelraheem",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
